@@ -1,0 +1,10 @@
+{
+  "auths": {
+    "https://harbor.jiadi-dev.canopyhub.io": {
+      "username": "robot$image-builder-project-admin",
+      "password": "T20OUGIVtTZF63gUr7YnV8VFdIfOkHZn",
+      "email": "foobar@shakudo.io",
+      "auth": "cm9ib3QkaW1hZ2UtYnVpbGRlci1wcm9qZWN0LWFkbWluOlQyME9VR0lWdFRaRjYzZ1VyN1luVjhW\nRmRJZk9rSFpu"
+    }
+  }
+}
